@@ -1,3 +1,3 @@
 # First Project
 
-First go round at github and learning what it does.
+First go round at github and learning what it does!
